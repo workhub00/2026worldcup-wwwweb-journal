@@ -1,2 +1,14 @@
 # 2026worldcup-wwwweb-journal
-HTML page archive and documentation
+
+发布页面归档目录
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 内容结构
+
+- 根目录：HTML 页面文件
+- README：用途与维护说明
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
